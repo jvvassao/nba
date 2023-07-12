@@ -1,0 +1,20 @@
+@import url(styles/header.css);
+@import url(styles/banner.css);
+@import url(styles/carrosel.css);
+@import url(styles/draft.css);
+@import url(styles/teams.css);
+
+.copyright{
+    margin-top: 2em;
+    color: white;
+}
+
+.lista-f{
+    margin: 1em 0 0 0;
+    text-decoration: none;
+    list-style: none;
+    color: white;
+}
+footer{
+    background-color: black;
+}

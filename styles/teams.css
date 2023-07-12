@@ -1,0 +1,29 @@
+.img-times{
+    display: flex;
+    width: 100px;
+    padding:1em;
+}
+
+.link-times{
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+    color: black;
+}
+
+.teams{
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.img-teams{
+    width: 200px;
+    align-items: center;
+}
+
+.logo-boston{
+  width: 80px;
+}
